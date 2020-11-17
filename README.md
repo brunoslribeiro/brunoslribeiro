@@ -3,11 +3,11 @@
 # Hello Dev's!
  
 ## I'm Bruno Ribeiro!
- 
-<img align="left" src="https://cdn.iconscout.com/icon/free/png-128/salesforce-3-569548.png"> Salesforce Arquitech </br>
-9 years of experience in Development </br>
- Nerd </br>
-I Like animes </br>
+
+<ul>
+ <li>Salesforce Application Arquitech</li>
+ <li>9 years of experience in Development </li>
+</ul>
 
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/brunoslribeiro/brunoslribeiro)
