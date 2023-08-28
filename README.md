@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/brunoslribeiro" target="blank"><img src="https://img.shields.io/twitter/follow/brunoslribeiro?logo=twitter&style=for-the-badge" alt="brunoslribeiro" /></a> </p>
 
-- 🔭 I’m currently working on **Ipiranga Produtos de Pétroleo**
-
-- 👯 I’m looking to collaborate on **MetaTiger**
+- 🔭 I’m currently working on **Rede Dor São Luiz**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
